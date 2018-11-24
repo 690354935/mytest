@@ -1,0 +1,7 @@
+public clsss User{
+
+private String Username;
+private String Password;
+
+ 
+}
